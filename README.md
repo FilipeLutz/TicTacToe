@@ -1,6 +1,6 @@
 # TicTacToe Game
 
-Mobile Apps Assignment 1
+## Assignment 1: Mobile App Development 2
 
-Module title:  Mobile App Development 2
-Lecturer name:  Eugene Oregan
+**Lecturer:** Eugene O'Regan  
+**Module:** Mobile App Development 2  
