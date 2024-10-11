@@ -54,7 +54,7 @@ fun TicTacToeGame() {
         modifier = Modifier.fillMaxSize()
     ) {
         Text(
-            text = winner?.let { "Player: $it wins!" } ?: "Current Player: $currentPlayer",
+            text = winner?.let { "Player: $it won!" } ?: "Current Player: $currentPlayer",
             style = MaterialTheme.typography.headlineMedium,
             modifier = Modifier.padding(16.dp)
         )
